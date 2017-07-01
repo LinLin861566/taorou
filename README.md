@@ -1,1 +1,4 @@
-# taorou
+# 开发规范
+特性开发请基于develop分支拉出新分支feature/xxx进行编码
+bug修复请基于develop或者特性分支拉出新分支bugfix/xxx进行编码
+所有代码完成编写只合入develop分支，发行版本合入master
